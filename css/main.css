@@ -1,5 +1,6 @@
 html {
   font-family: Merriweather, serif;
+  color: #333;
 }
 
 table, th, td {
@@ -8,12 +9,10 @@ table, th, td {
 
 td {
   height: 9em;
-  text-align: right;
 }
 
 p {
   border-radius: 8px;
-  text-align: left;
 }
 
 .gray {
